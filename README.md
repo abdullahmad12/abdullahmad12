@@ -1,7 +1,7 @@
-[![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611fbf5976621d01668a5d502511b58397c2d11ced6&rid=giphy.gif&ct=g)](https://abdullahmad12.io)
+[![MasterHead](https://wallpaperaccess.com/full/796850.jpg)](https://abdullahmad12.io)
 <h1 align="center">Hi 👋, I'm Abdullah Ahmad</h1>
 <h3 align="center">A student of Computer Science</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmad12&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmad12" /> </p>
 
